@@ -1,0 +1,15 @@
+
+{
+  "name": "UX Writing Linter",
+  "id": "uxwriting-linter",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"],
+  "permissions": ["currentuser"],
+  "menu": [
+    {
+      "name": "Run UX Writing Check",
+      "command": "run"
+    }
+  ]
+}
